@@ -2,8 +2,6 @@
 Trabalho acadêmico da materia de Computação Paralela
 -----
 
-# Avaliação de Desempenho de Árvore de Decisão Paralela (Sequencial, OpenMP, MPI+OpenMP)
-
 Este repositório contém implementações de um algoritmo de árvore de decisão C4.5 (baseado em Gain Ratio) com diferentes estratégias de paralelização para fins de avaliação de desempenho.
 
 ## 1\. Objetivo do Projeto
